@@ -1,6 +1,6 @@
 import re
 import string
-import nltk                                # Python library for NLP
+import nltk                                
 from nltk.corpus import twitter_samples    # sample Twitter dataset from NLTK
 from nltk.corpus import stopwords          # module for stop words that come with NLTK
 from nltk.stem import PorterStemmer        # module for stemming
